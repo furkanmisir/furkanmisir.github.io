@@ -25,13 +25,12 @@ entries:
   - title: rss
     url: feed.xml
   
-  - title: another list
+  - title: others
     entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
+      - title: resume
+        url: resume.pdf
+        title: portfolio
+        url: portfolio
+ # - title: PRO TIP
+ #   entries:
+ #     - title: to edit this menu, edit _data/menu.yml file
