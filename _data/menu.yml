@@ -5,8 +5,7 @@ entries:
   - title: info
     entries:
       - title: a mechanical engineer at Gravity Robotik Mühendlislik A.Ş.
-      - title: github repo
-        url: https://github.com/furkanmisir
+      - title: contact via "github repo <a href='https://github.com/furkanmisir</a> and <a href='mailto:misirfurkan@gmail.com'e-mail</a>"
       - title: Kocaeli/Türkiye
 
   - title: all posts
