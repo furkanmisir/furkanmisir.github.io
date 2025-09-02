@@ -28,7 +28,7 @@ entries:
   - title: others
     entries:
       - title: resume
-        url: resume.pdf
+        url: "/resume.pdf"
         title: portfolio
         url: portfolio
  # - title: PRO TIP
