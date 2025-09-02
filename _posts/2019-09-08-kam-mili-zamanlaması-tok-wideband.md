@@ -24,4 +24,4 @@ Motorun yanması için en önemli hususlardan biri de hava/yakıt karışım ora
 
 ![wideband and narrowband](https://www.enginebasics.com/EFI%20Tuning/Images/AF%20Basics%203.gif)
 
-***Yanlışlar ve eksiklikler var ise bana bildirebilirsiniz.***
+
