@@ -4,7 +4,7 @@
 entries:
   - title: info
     entries:
-      - title: a mechanical engineer, Project Lead Engineer at Gravity Robotik Mühendlislik A.Ş.
+      - title: Mechanical Engineer, Project Lead Engineer at Gravity.
       - title: contact via <a href="https://github.com/furkanmisir">github</a>, <a href="https://tr.linkedin.com/in/furkan-misir">Linkedin</a> and <a href="mailto:misirfurkan@gmail.com">email</a>
       - title: Kocaeli/Türkiye
 
@@ -17,7 +17,7 @@ entries:
 
   - title: posts by category
     post_list:
-      category: example2
+      category: example2a
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
