@@ -7,7 +7,8 @@ entries:
       - title: Mechanical Engineer, Project Lead Engineer at Gravity.
       - title: contact via <a href="https://github.com/furkanmisir">github</a>, <a href="https://tr.linkedin.com/in/furkan-misir">Linkedin</a> and <a href="mailto:misirfurkan@gmail.com">email</a>
       - title: Kocaeli/Türkiye, 
-      - url: "/img/zemep.png"
+      - url: <a href="/zemep"><img src="/img/zemep.png" alt="test"></a>
+
 
 
   - title: the last 3 posts
